@@ -1,6 +1,6 @@
 # Bimal Pandey | Tech Innovator 🚀
 
-![Profile Banner](https://via.placeholder.com/1000x300.png?text=Bimal+Pandey+%7C+Web+Developer+%26+Designer)
+![Profile Banner]([https://via.placeholder.com/1000x300.png?text=Bimal+Pandey+%7C+Web+Developer+%26+Designer](https://avatars.githubusercontent.com/u/163624611?s=400&u=9b526a53da0c9eb0e97943146e517d4d24bca8f7&v=4))
 
 ## 👨‍💻 About Me
 
