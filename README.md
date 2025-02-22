@@ -33,10 +33,9 @@ BCA student blending code, design, and creativity to build innovative digital so
 - 🖥 Full Stack Development
 - 🎨 UI/UX Design Excellence
 - 🧠 Continuous Learning
-
 ## 📊 GitHub Stats
 
-![Bimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+![Bimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical&include_all_commits=true)
 
 ## 🔗 Connect With Me
 
