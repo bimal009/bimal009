@@ -84,7 +84,7 @@
 
 ###
 
-<img  src="https://raw.githubusercontent.com/bimal009/bimal009/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
+<img src="https://raw.githubusercontent.com/bimal009/<repository>/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
 
 ###
 
