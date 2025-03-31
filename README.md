@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=amritxyz&label=Profile%20views&color=0e75b6&style=flat" alt="amritxyz" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bimal009&label=Profile%20views&color=0e75b6&style=flat" alt="amritxyz" /> </p>
 
 <h1 align="left">Hi, I'm Bimal!</h1>
 
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" />
 </a>
 
-<a href="https://www.facebook.com/people/Bimal-Pandey/" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61572614645732" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="facebook logo" />
 </a>
 
