@@ -1,44 +1,42 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amritxyz&label=Profile%20views&color=0e75b6&style=flat" alt="amritxyz" /> </p>
 
-<h1 align="left">Hi, I'm Amrit!</h1>
+<h1 align="left">Hi, I'm Bimal!</h1>
 
 ###
 
-<p align="left">I am an open-source enthusiast and dedicated programmer with a passion for crafting elegant and efficient code.</p>
+<p align="left"> I am a BCA student blending code, design, and creativity to build innovative digital solutions</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
-###
 
-<p align="left">✨ Creating bugs since 2006.<br>📚 I'm currently learning Lua, Rust.<br>🎯 Goals: Make suckless programs.<br>🎲 Fun fact: World first developer was a women!</p>
-
-###
 
 <h2 align="left">Socials</h2>
 
 ###
 
 <div align="left">
-<!--
-  <a href="https://www.facebook.com/amrit.bhattarai.3344/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="" alt="facebook logo"  />
-  <a href="https://www.instagram.com/amrit.010/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
-  </a> -->
-  <a href="https://www.linkedin.com/in/amrit-bhattarai-30ab42323/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.patreon.com/nyxvoid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="" alt="patreon logo"  />
-  </a>
-  <a href="https://dev.to/nyx-void" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="" alt="devto logo"  />
-  </a>
-  <a href="https://ko-fi.com/void44404#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="" alt="ko-fi logo"  />
-  </a>
+
+  <a href="https://www.linkedin.com/in/bimal-pandey-246780352/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" />
+</a>
+
+<a href="https://www.facebook.com/people/Bimal-Pandey/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="facebook logo" />
+</a>
+
+<a href="https://www.instagram.com/bunchoo_graphics11/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" />
+</a>
+
+<a href="https://www.youtube.com/@CodeWithBunchoo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="youtube logo" />
+</a>
+
+ 
+  
+
 </div>
 
 ###
@@ -48,34 +46,37 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="" alt="c logo"  />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" alt="c logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="" alt="lua logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="" alt="bash logo"  />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="nodejs logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="postgresql logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="" alt="linux logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="" alt="vim logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="python logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="java logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="" alt="docker logo"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="nextjs logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="" alt="git logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="typescript logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="" alt="gitlab logo"  />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="tailwindcss logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="" alt="github logo"  />
+  <img src="https://img.shields.io/badge/Mongoose-880D1E?logo=mongoose&logoColor=white&style=for-the-badge" alt="mongoose logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="express logo" />
   <img width="0" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="html5 logo" />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css3 logo" />
 </div>
+
 
 ###
 
@@ -83,7 +84,7 @@
 
 ###
 
-<img  src="https://raw.githubusercontent.com/amritxyz/amritxyz/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/bimal009/bimal009/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
 
 ###
 
@@ -92,15 +93,15 @@
 ###
 
 <div align="left">
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amritxyz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bimal009&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 <div align="left">
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=amritxyz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=bimal009&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <div align="left">
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=amritxyz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bimal009&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 ###
