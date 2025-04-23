@@ -64,11 +64,12 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" alt="prisma logo" />
   <img src="https://img.shields.io/badge/Drizzle-FF6347?logo=drizzle&logoColor=white&style=for-the-badge" alt="drizzle logo" />
   <img src="https://img.shields.io/badge/Zustand-000000?logo=zotero&logoColor=white&style=for-the-badge" alt="zustand logo" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="redux logo" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="vite logo" />
   <img src="https://img.shields.io/badge/Shadcn/UI-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="shadcn logo" />
   <img src="https://img.shields.io/badge/Framer--Motion-EF4E4E?logo=framer&logoColor=white&style=for-the-badge" alt="framer motion logo" />
+  <img src="https://img.shields.io/badge/Native%20Neon-000000?logo=neon&logoColor=white&style=for-the-badge" alt="native neon logo" />
 </div>
+
 
 
 
