@@ -1,10 +1,4 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bimal009&label=Profile%20views&color=0e75b6&style=flat" alt="amritxyz" /> </p>
-
-
-<h2 align="left">About me</h2>
-
-
-
 <h2 align="left">Socials</h2>
 
 ###
