@@ -1,12 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bimal009&label=Profile%20views&color=0e75b6&style=flat" alt="amritxyz" /> </p>
 
-<h1 align="left">Hi, I'm Bimal!</h1>
-
-###
-
-<p align="left"> I am a BCA student blending code, design, and creativity to build innovative digital solutions</p>
-
-###
 
 <h2 align="left">About me</h2>
 
