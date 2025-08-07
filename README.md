@@ -25,12 +25,6 @@
   
 
 </div>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
 <div align="left">
  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" alt="c logo" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript logo" />
