@@ -56,17 +56,6 @@
 
 
 
-
-###
-
-<h2 align="left">Contributions: </h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/bimal009/bimal009/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
-
-###
-
 <h2 align="left">Stats: </h2>
 
 ###
